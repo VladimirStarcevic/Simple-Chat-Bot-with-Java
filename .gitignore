@@ -1,0 +1,26 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Simple Chat Bot with Java/*
+!/Simple Chat Bot with Java/task/
+/Simple Chat Bot with Java/task/*
+!/Simple Chat Bot with Java/task/src
+
+# Project exclude paths
+/Topics/Method overriding/Animal sounds  Cat meows, Dog woofs/out/
+/Topics/Method overriding/Animal sounds  Cat meows, Dog woofs/out/production/classes/
+/Topics/Method overriding/Overriding rules/out/
+/Topics/Method overriding/Overriding rules/out/production/classes/
+/Topics/Method overriding/Theory/out/
+/Topics/Method overriding/Theory/out/production/classes/
+/Topics/Method overriding/Vroom vroom  A tale of two wheels/out/
+/Topics/Method overriding/Vroom vroom  A tale of two wheels/out/production/classes/
